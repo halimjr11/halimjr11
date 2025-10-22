@@ -1,19 +1,84 @@
-### Hello there, I am Nurhaq Halim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-### Welcome to my github's profile <img src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif" width="25px"> 
+<h1 align="center">Hi there 👋, I'm <span style="color:#4DD0E1;">Nurhaq Halim</span></h1>
+<h4 align="center">Android Developer | Kotlin & Jetpack Compose | Crafting User-Centered Mobile Experiences</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nurhaq-halim-5b05b3207)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nurhaqhalim7r/)
+---
 
-## Technology and Stats
-![](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=windows&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=4DD0E1)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat-square&logo=kotlin&logoColor=white&color=0095D5)
-![](https://img.shields.io/badge/Library-Dart-informational?style=flat-square&logo=dart&logoColor=white&color=008080)
-![](https://img.shields.io/badge/Tools-Redis-informational?style=flat-square&logo=redis&logoColor=white&color=F20505)
-![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat-square&logo=vagrant&logoColor=white&color=C6E2FF)
+### 🧭 About Me
+👋 Hello! I'm **Nurhaq Halim**, an **Android Developer** who focuses on developing applications using **Kotlin**, **Jetpack Compose**, **Flutter**, and **Clean Architecture**.
+I enjoy the process of building applications that are not only efficient and maintainable, but also have a clean architecture and provide a smooth and intuitive user experience. 
 
-📈 **My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=halimjr11&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimjr11&layout=compact&&show_icons=true&hide_border=trueexclude_repo=FP_SISOP20_D04&langs_count=8" />
+💡 **Filosofi saya:**  
+> “Clean architecture is not just a pattern — it’s a habit of thinking clearly.”
+> “Build with empathy — every pixel, every line of code, should serve the user.”
+
+---
+
+🌱 Currently, I am focusing on:  
+- Android Modular Architecture  
+- Kotlin Coroutines & Flow  
+- Clean Flutter Architecture  
+- Exploring Compose & Multiplatform
+
+---
+
+### 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurhaq-halim-5b05b3207)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurhaqhalim7r/)
+
+---
+
+### 🧠 Tech Stack
+| Category | Tools / Tech |
+|:--|:--|
+| **Language** | Kotlin, Dart, Java |
+| **Framework** | Android SDK, Flutter |
+| **Architecture** | MVVM, MVI, Clean Architecture |
+| **Database** | Room, SQLCipher, Firebase, Realm |
+| **Networking** | Retrofit, Ktor, OkHttp (SSL Pinning) |
+| **Dependency Injection** | Hilt, Koin |
+| **UI Components** | Material3, Compose, Custom Views |
+| **Tools** | Android Studio, VS Code, Git, Postman |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=halimjr11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimjr11&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+
+---
+
+### 🏗️ Featured Repositories
+Here are some projects I’ve built and maintained 👇  
+
+- 🎬 [**Cameo**](https://github.com/halimjr11/Cameo) — Android Movie App built with **Kotlin**, **XML UI**, and **Clean Architecture**.  
+- 📰 [**HeadlineNow**](https://github.com/halimjr11/HeadlineNow) — News Reader App powered by **Jetpack Compose** and **Modular MVVM Architecture**.  
+- 🧩 [**More on My Repositories →**](https://github.com/halimjr11?tab=repositories)
+
+---
+
+### 🧩 Fun Fact
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
+> — Martin Fowler
+> 
+>  “Code is like humor. When you have to explain it, it’s bad.”
+> — Cory House
+
+
+---
+
+### ☕ Support My Work
+If you like what I do, consider buying me a coffee ❤️  
+
+<a href="buymeacoffee.com/nurhaqhaliv" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=halimjr11&label=Profile%20Views&color=0e75b6&style=flat" alt="halimjr11" />
+</p>
+
+⭐️ **With warm regards, [@halimjr11](https://github.com/halimjr11)**  
