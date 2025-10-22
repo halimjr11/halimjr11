@@ -14,10 +14,12 @@ I enjoy the process of building applications that are not only efficient and mai
 ---
 
 🌱 Currently, I am focusing on:  
-- Android Modular Architecture  
-- Kotlin Coroutines & Flow  
-- Clean Flutter Architecture  
+- Android Modular with Clean Architecture
+- Kotlin Coroutines & Flow
+- Clean Flutter Architecture
+- Jetpack Components
 - Exploring Compose & Multiplatform
+- Mobile Architecture Design Pattern
 
 ---
 
@@ -52,8 +54,8 @@ I enjoy the process of building applications that are not only efficient and mai
 ### 🏗️ Featured Repositories
 Here are some projects I’ve built and maintained 👇  
 
-- 🎬 [**Cameo**](https://github.com/halimjr11/Cameo) — Android Movie App built with **Kotlin**, **XML UI**, and **Clean Architecture**.  
-- 📰 [**HeadlineNow**](https://github.com/halimjr11/HeadlineNow) — News Reader App powered by **Jetpack Compose** and **Modular MVVM Architecture**.  
+- 🎬 [**Cameo**](https://github.com/halimjr11/Cameo) — Android Movie App built with **Kotlin**, **XML UI**, **Clean Architecture** and **Modular MVVM Architecture**.  
+- 📰 [**HeadlineNow**](https://github.com/halimjr11/HeadlineNow) — News Reader App powered by **Jetpack Compose** and **Clean Architecture**.  
 - 🧩 [**More on My Repositories →**](https://github.com/halimjr11?tab=repositories)
 
 ---
