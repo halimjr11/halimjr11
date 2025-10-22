@@ -8,8 +8,9 @@
 I enjoy the process of building applications that are not only efficient and maintainable, but also have a clean architecture and provide a smooth and intuitive user experience. 
 
 💡 **Filosofi saya:**  
-> “Clean architecture is not just a pattern — it’s a habit of thinking clearly.”
-> “Build with empathy — every pixel, every line of code, should serve the user.”
+> “Clean architecture isn’t just a pattern, it’s a way of thinking clearly.”
+
+> “Code with empathy — every detail should make life easier for the user.”
 
 ---
 
