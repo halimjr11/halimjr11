@@ -7,7 +7,7 @@
 👋 Hello! I'm **Nurhaq Halim**, an **Android Developer** who focuses on developing applications using **Kotlin**, **Jetpack Compose**, **Flutter**, and **Clean Architecture**.
 I enjoy the process of building applications that are not only efficient and maintainable, but also have a clean architecture and provide a smooth and intuitive user experience. 
 
-💡 **Filosofi saya:**  
+💡 **Built on Belief:**  
 > “Clean architecture isn’t just a pattern, it’s a way of thinking clearly.”
 
 > “Code with empathy — every detail should make life easier for the user.”
@@ -61,7 +61,7 @@ Here are some projects I’ve built and maintained 👇
 
 ---
 
-### 🧩 Fun Fact
+### 🧩 Lines Worth Remembering
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
 > — Martin Fowler
 > 
