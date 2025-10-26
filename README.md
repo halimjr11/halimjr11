@@ -74,8 +74,8 @@ Here are some projects I’ve built and maintained 👇
 ### ☕ Support My Work
 If you like what I do, consider buying me a coffee ❤️  
 
-<a href="https://www.buymeacoffee.com/nurhaqhaliv" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+<a href="https://trakteer.id/halimjr11" target="_blank">
+  <img src="https://edge-cdn.trakteer.id/images/mix/navbar-logo.png?v=14-05-2025" height="50" width="210" alt="Buy Me A Coffee" />
 </a>
 
 ---
